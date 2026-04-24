@@ -1,1 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
+title: Spiritual Robotics
+description: High-Precision Engineering & Educational Resources
+show_downloads: true
+google_analytics: # You can add this later for tracking sales
