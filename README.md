@@ -1,6 +1,16 @@
-# Shivam Kumar | Robotics Research Engineer
-**Specializing in high-precision manipulator calibration and ML-driven automation.**
-
+---
+layout: single
+title: "Shivam Kumar | Robotics Research Engineer"
+excerpt: "Specializing in high-precision manipulator calibration and ML-driven automation."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/robot-header.jpg # Optional: Add a cool robot image here
+  actions:
+    - label: "View Projects"
+      url: "/portfolio/"
+---
+# About Me
 I bridge the gap between complex software algorithms and physical robotic hardware. [cite_start]My work has successfully reduced industrial robotic positional errors by over **80%** (from >500 um to ~100 um)[cite: 302]. [cite_start]I am proficient in **C++, Python, ROS**, and **Fanuc/ABB** programming[cite: 290, 296, 347].
 
 ---
