@@ -6,16 +6,16 @@ excerpt: "Specializing in high-precision manipulator calibration and ML-driven a
 ---
 
 # Professional Profile
-[cite_start]I am a Robotics Research Engineer with a Master’s degree (Distinction) from the University of Sheffield[cite: 341]. [cite_start]I specialize in bridging the gap between complex software algorithms and physical robotic hardware[cite: 289, 290].
+I am a Robotics Research Engineer with a Master’s degree (Distinction) from the University of Sheffield. I specialize in bridging the gap between complex software algorithms and physical robotic hardware.
 
-[cite_start]My recent work at Zeeko Ltd focused on high-precision systems where I successfully reduced industrial robotic positional errors by over **80%**, improving accuracy from >500 um to ~100 um[cite: 302, 346].
+My recent work at Zeeko Ltd focused on high-precision systems where I successfully reduced industrial robotic positional errors by over **80%**, improving accuracy from >500 um to ~100 um.
 
 ---
 
 ### 🚀 Performance Highlights
-* [cite_start]**🛠️ Expertise:** Advanced Robotics Perception, Planning, and Control using C++, Python, and Simulink[cite: 290, 294, 295].
-* [cite_start]**🎯 Impact:** Optimized industrial robotic accuracy and reduced calibration downtime by **84%**[cite: 302, 346].
-* **🎓 Academic:** MSc Robotics (Distinction) and B.E. [cite_start]Electronics & Telecommunication (1st Class Distinction)[cite: 331].
+* **🛠️ Expertise:** Advanced Robotics Perception, Planning, and Control using C++, Python, and Simulink.
+* **🎯 Impact:** Optimized industrial robotic accuracy and reduced calibration downtime by **84%**.
+* **🎓 Academic:** MSc Robotics (Distinction) and B.E. Electronics & Telecommunication (1st Class Distinction).
 
 ---
 
