@@ -1,8 +1,6 @@
 ---
-layout: default
-title: TIAGo Autonomous Navigation
-parent: Projects
+title: "TIAGo Autonomous Navigation"
+excerpt: "Optimizing ROS stacks for high-precision mapping."
+header:
+  teaser: /assets/images/tiago-thumbnail.png
 ---
-# TIAGo Autonomous Navigation
-
-In this project, I optimized the ROS navigation stack for a TIAGo robot...
