@@ -40,4 +40,4 @@ author_profile: true
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/shivam-kumar-6446aaa5/) | [Email](mailto:kumarshivam14722@gmail.com) | [cite_start]+44 7443026664 [cite: 2, 385]
+[LinkedIn](www.linkedin.com/in/shivamkumarpal) | [Email](mailto:kumarshivam14722@gmail.com) | [cite_start]+44 7443026664 [cite: 2, 385]
