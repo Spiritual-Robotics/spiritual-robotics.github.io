@@ -1,5 +1,19 @@
-remote_theme: pages-themes/slate@v0.2.0
-title: Spiritual Robotics
-description: High-Precision Engineering & Educational Resources
-show_downloads: true
-google_analytics: # You can add this later for tracking sales
+# remote_theme: pages-themes/slate@v0.2.0
+# title: Spiritual Robotics
+# description: High-Precision Engineering & Educational Resources
+# show_downloads: true
+# google_analytics: # You can add this later for tracking sales
+remote_theme: mmistakes/minimal-mistakes@4.24.4
+locale: "en-US"
+plugins:
+  - jekyll-include-cache
+
+# This creates the "Cards" for your projects
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "single"
+      author_profile: true
+      share: true
