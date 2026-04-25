@@ -1,23 +1,21 @@
 remote_theme: mmistakes/minimal-mistakes
-locale: "en-GB" # Standard for UK
+locale: "en-GB"
 plugins:
   - jekyll-include-cache
 
 url: "https://spiritual-robotics.github.io"
 
-# ADD THIS AUTHOR SECTION:
 author:
   name   : "Shivam Kumar"
-  avatar : "/assets/images/profile.jpg" # Optional: Add a photo to this path later
   bio    : "Robotics Research Engineer | High-Precision Calibration & ML"
-  [cite_start]location: "Leicester, UK" [cite: 287]
+  location: "Leicester, UK"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      [cite_start]url: "https://www.linkedin.com/in/shivam-kumar-6446aaa5/" [cite: 385]
+      url: "https://www.linkedin.com/in/shivam-kumar-6446aaa5/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      [cite_start]url: "mailto:kumarshivam14722@gmail.com" [cite: 287]
+      url: "mailto:kumarshivam14722@gmail.com"
 
 defaults:
   - scope:
