@@ -23,3 +23,5 @@ defaults:
     values:
       layout: "single"
       author_profile: true
+# Site Navigation
+site_navigation: main
