@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Home"
+  - title: "ABOUT ME"
     url: /
-  - title: "Projects"
+  - title: "PROJECT"
     url: /portfolio/
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/shivamkumarpal"
+  - title: "BLOGS"
+    url: /document/
