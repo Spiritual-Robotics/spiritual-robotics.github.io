@@ -3,7 +3,7 @@ locale: "en-GB"
 plugins:
   - jekyll-include-cache
 
-#url: "https://spiritual-robotics.github.io"
+url: "https://spiritual-robotics.github.io"
 
 author:
   name   : "Shivam Kumar"
