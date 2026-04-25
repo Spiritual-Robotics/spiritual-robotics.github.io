@@ -22,23 +22,23 @@ My recent work at Zeeko Ltd focused on high-precision systems where I successful
 ### 📂 Featured Projects
 
 #### **ML-Driven Robotic Calibration**
-[cite_start]Developed a hybrid Machine Learning pipeline in Python to identify joint offsets and link length errors for Fanuc manipulators[cite: 301, 302].
+[cite_start]Developed a hybrid Machine Learning pipeline in Python to identify joint offsets and link length errors for Fanuc manipulators.
 
 #### **Brain-Computer Interface (BCI) Control**
-[cite_start]Designed and implemented an EEG signal processing pipeline using MATLAB to control an ABB robotic arm for pick-and-place tasks[cite: 344, 373].
+[cite_start]Designed and implemented an EEG signal processing pipeline using MATLAB to control an ABB robotic arm for pick-and-place tasks.
 
 #### **Industrial Robotic Polishing Cell (RPC)**
-[cite_start]Led the end-to-end deployment of a high-precision polishing cell, integrating Fanuc M20ib robots with EtherCAT/Profinet and ensuring compliance with **ISO 10218** safety standards[cite: 303, 345, 347].
+[cite_start]Led the end-to-end deployment of a high-precision polishing cell, integrating Fanuc M20ib robots with EtherCAT/Profinet and ensuring compliance with **ISO 10218** safety standards.
 
 ---
 
 ### 🛠️ Technical Toolkit
-* **Languages:** Python, C++, Embedded C, SQL, MATLAB[cite: 294, 400].
-* **Robotics:** ROS (Melodic), Fanuc (Karel, TP Language), ABB (RAPID)[cite: 296, 323, 347].
-* **Automation:** PLC Configuration (Siemens, Rockwell, ABB), EtherCAT, Profinet[cite: 307, 308, 347].
+* **Languages:** Python, C++, Embedded C, SQL, MATLAB.
+* **Robotics:** ROS (Melodic), Fanuc (Karel, TP Language), ABB (RAPID).
+* **Automation:** PLC Configuration (Siemens, Rockwell, ABB), EtherCAT, Profinet.
 
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/shivamkumarpal) | [Email](mailto:kumarshivam14722@gmail.com) | [cite_start]+44 7443026664 [cite: 2, 385]
+[LinkedIn](https://www.linkedin.com/in/shivamkumarpal) | [Email](mailto:kumarshivam14722@gmail.com) | +44 7443026664 
 
