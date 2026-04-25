@@ -1,8 +1,8 @@
 ---
 layout: single
+author_profile: true
 title: "Shivam Kumar | Robotics Research Engineer"
 excerpt: "Specializing in high-precision manipulator calibration and ML-driven automation."
-author_profile: true
 ---
 
 # Professional Profile
@@ -40,5 +40,5 @@ author_profile: true
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/shivamkumarpal) | [Email](mailto:kumarshivam14722@gmail.com) | [cite_start]+44 7443026664 [cite: 2, 385]
+[LinkedIn](https://www.linkedin.com/in/shivamkumarpal) | [Email](mailto:kumarshivam14722@gmail.com) | [cite_start]+44 7443026664 [cite: 2, 385]
 
