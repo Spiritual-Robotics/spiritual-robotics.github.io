@@ -33,9 +33,9 @@ My recent work at Zeeko Ltd focused on high-precision systems where I successful
 ---
 
 ### 🛠️ Technical Toolkit
-* [cite_start]**Languages:** Python, C++, Embedded C, SQL, MATLAB[cite: 294, 400].
-* [cite_start]**Robotics:** ROS (Melodic), Fanuc (Karel, TP Language), ABB (RAPID)[cite: 296, 323, 347].
-* [cite_start]**Automation:** PLC Configuration (Siemens, Rockwell, ABB), EtherCAT, Profinet[cite: 307, 308, 347].
+* **Languages:** Python, C++, Embedded C, SQL, MATLAB[cite: 294, 400].
+* **Robotics:** ROS (Melodic), Fanuc (Karel, TP Language), ABB (RAPID)[cite: 296, 323, 347].
+* **Automation:** PLC Configuration (Siemens, Rockwell, ABB), EtherCAT, Profinet[cite: 307, 308, 347].
 
 ---
 
