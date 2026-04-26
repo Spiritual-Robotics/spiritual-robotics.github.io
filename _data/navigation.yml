@@ -2,7 +2,7 @@
 main:
   - title: "HOME"
     url: /
-    - title: "MY JOURNEY"
+  - title: "MY JOURNEY"
     url: /timeline/
     children:
       - title: "Undergrads"
