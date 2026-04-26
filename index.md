@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "Shivam Kumar | Robotics Research Engineer"
 excerpt: "Specializing in high-precision manipulator calibration and ML-driven automation."
+tagline: "The Fusion of Code and Consciousness"
 ---
 
 # Professional Profile
