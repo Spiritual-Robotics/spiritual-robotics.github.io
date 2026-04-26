@@ -32,7 +32,7 @@ Led the end-to-end deployment of a high-precision polishing cell, integrating Fa
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ TECHINCAL TOOLKIT
 * **Languages:** Python, C++, Embedded C, SQL, MATLAB.
 * **Robotics:** ROS (Melodic), Fanuc (Karel, TP Language), ABB (RAPID).
 * **Automation:** PLC Configuration (Siemens, Rockwell, ABB), EtherCAT, Profinet.
