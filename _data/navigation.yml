@@ -1,8 +1,22 @@
 # main links
 main:
-  - title: "ABOUT ME"
-    url: /
+  - title: "MY JOURNEY"
+    url: /timeline/
+    children:
+      - title: "Undergrads"
+        url: /timeline/beng/
+      - title: "Masters"
+        url: /timeline/msc/
+      - title: "Work-Experience"
+        url: /timeline/work/
   - title: "PROJECT"
     url: /portfolio/
+    children:
+      - title: "Machine-Learning"
+        url: /portfolio/ml/
+      - title: "ROS"
+        url: /portfolio/ros/
+      - title: "Industrial-Robot"
+        url: /portfolio/industrial/
   - title: "BLOGS"
     url: /document/
