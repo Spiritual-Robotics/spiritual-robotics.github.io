@@ -21,14 +21,14 @@ My recent work at Zeeko Ltd focused on high-precision systems where I successful
 
 ### 📂 FEATURED PROJECTS
 
-#### **ML-Driven Robotic Calibration**
-Developed a hybrid Machine Learning pipeline in Python to identify joint offsets and link length errors for Fanuc manipulators.
+  #### **ML-Driven Robotic Calibration**
+  Developed a hybrid Machine Learning pipeline in Python to identify joint offsets and link length errors for Fanuc   manipulators.
 
-#### **Brain-Computer Interface (BCI) Control**
-Designed and implemented an EEG signal processing pipeline using MATLAB to control an ABB robotic arm for pick-and-place tasks.
+  #### **Brain-Computer Interface (BCI) Control**
+  Designed and implemented an EEG signal processing pipeline using MATLAB to control an ABB robotic arm for pick-     and-place tasks.
 
-#### **Industrial Robotic Polishing Cell (RPC)**
-Led the end-to-end deployment of a high-precision polishing cell, integrating Fanuc M20ib robots with EtherCAT/Profinet and ensuring compliance with **ISO 10218** safety standards.
+  #### **Industrial Robotic Polishing Cell (RPC)**
+  Led the end-to-end deployment of a high-precision polishing cell, integrating Fanuc M20ib robots with               EtherCAT/Profinet and ensuring compliance with **ISO 10218** safety standards.
 
 ---
 
