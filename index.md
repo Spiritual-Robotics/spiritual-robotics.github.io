@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: "About me"
 excerpt: "Specializing in high-precision manipulator calibration and ML-driven automation."
 tagline: "The Fusion of Code and Consciousness"
 ---
