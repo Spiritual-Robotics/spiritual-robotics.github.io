@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "MY JOURNEY"
+  - title: "HOME"
+    url: /
+    - title: "MY JOURNEY"
     url: /timeline/
     children:
       - title: "Undergrads"
