@@ -19,7 +19,7 @@ My recent work at Zeeko Ltd focused on high-precision systems where I successful
 
 ---
 
-### 📂 Featured Projects
+### 📂 FEATURED PROJECTS
 
 #### **ML-Driven Robotic Calibration**
 Developed a hybrid Machine Learning pipeline in Python to identify joint offsets and link length errors for Fanuc manipulators.
