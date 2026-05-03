@@ -1,7 +1,12 @@
 ---
 layout: collection
-title: "Industrial Project"
+title: "Industrial Robotics"
 permalink: /portfolio/industrial/
 author_profile: true
+collection: portfolio
+entries_layout: grid
+classes: wide
+taxonomy: industrial
 ---
-industrial robot related projects.
+
+Precision-engineered solutions focusing on robotic manipulators, system integration, and industrial standards (ISO 10218).
