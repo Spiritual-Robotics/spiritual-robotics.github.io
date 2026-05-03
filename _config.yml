@@ -23,11 +23,17 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kumarshivam14722@gmail.com"
 
+# 1. This tells the theme which navigation file to use
+navigation: main
+
+# 2. Add this block here to explicitly define the header behavior
+masthead_links:
+  - title: "Home"
+    key: "main"
+
 defaults:
   - scope:
       path: ""
     values:
       layout: "single"
       author_profile: true
-# Site Navigation
-navigation: main
