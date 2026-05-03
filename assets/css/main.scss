@@ -52,3 +52,15 @@ code, kbd, pre {
   from { opacity: 0; transform: translateY(5px); }
   to { opacity: 1; transform: translateY(0); }
 }
+/* Final override to ensure the submenu is not hidden by the theme's overflow settings */
+.masthead__menu-item ul {
+  display: none; /* Hidden by default */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+}
+
+.masthead__menu-item:hover ul {
+  display: block; /* Visible on hover */
+}
