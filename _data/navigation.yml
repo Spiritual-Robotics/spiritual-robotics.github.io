@@ -4,13 +4,6 @@ main:
     url: /
   - title: "MY JOURNEY"
     url: /timeline/
-    children:
-      - title: "Undergrads"
-        url: /timeline/beng/
-      - title: "Masters"
-        url: /timeline/msc/
-      - title: "Work-Experience"
-        url: /timeline/work/
   - title: "PROJECTS"
     url: /portfolio/
     children:
