@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 author_profile: true
 title: "ABOUT ME"
 excerpt: "Specializing in high-precision manipulator calibration and ML-driven automation."
