@@ -1,0 +1,1 @@
+This locaiton has images.
