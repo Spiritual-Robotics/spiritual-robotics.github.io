@@ -1,23 +1,54 @@
 ---
 ---
-@import "minimal-mistakes";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // core theme
+@import "minimal-mistakes"; // main styles
 
 // Robotic Engineering Overrides
 :root {
   --primary-color: #f37021; // ABB/Industrial Orange
+  --link-color: #f37021;
 }
 
 body {
   font-variant-ligatures: common-ligatures;
+  /* Ensure smooth scrolling for your timeline */
+  scroll-behavior: smooth;
 }
 
+/* Engineering-style code blocks */
 code, kbd, pre {
   font-family: "JetBrains Mono", "Roboto Mono", monospace;
   font-size: 0.85em;
-  background: #f0f0f0;
+  background: #f1f1f1;
+  border-radius: 4px;
+  padding: 2px 4px;
 }
 
+/* Industrial Sidebar accent */
 .sidebar {
-  border-left: 3px solid var(--primary-color);
-  padding-left: 10px;
+  border-left: 4px solid var(--primary-color);
+  padding-left: 15px;
+  transition: all 0.3s ease;
+}
+
+/* DROPDOWN FIX: Ensuring visibility on hover */
+.masthead__menu-item {
+  position: relative;
+  
+  &:hover > ul {
+    display: block;
+    animation: fadeIn 0.2s ease-in;
+  }
+}
+
+/* Styling the dropdown menu itself */
+.masthead__menu-item ul {
+  background-color: #fff;
+  border-top: 2px solid var(--primary-color);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
 }
