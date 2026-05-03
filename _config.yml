@@ -9,9 +9,13 @@ url: "https://spiritual-robotics.github.io"
 
 author:
   name   : "Shivam Kumar"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Robotics Research Engineer"
   location: "Leicester, UK"
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/spiritual-robotics"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shivamkumarpal"
