@@ -1,0 +1,23 @@
+---
+---
+@import "minimal-mistakes";
+
+// Robotic Engineering Overrides
+:root {
+  --primary-color: #f37021; // ABB/Industrial Orange
+}
+
+body {
+  font-variant-ligatures: common-ligatures;
+}
+
+code, kbd, pre {
+  font-family: "JetBrains Mono", "Roboto Mono", monospace;
+  font-size: 0.85em;
+  background: #f0f0f0;
+}
+
+.sidebar {
+  border-left: 3px solid var(--primary-color);
+  padding-left: 10px;
+}
