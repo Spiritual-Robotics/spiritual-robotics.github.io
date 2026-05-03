@@ -7,10 +7,16 @@ plugins:
 
 url: "https://spiritual-robotics.github.io"
 
+# REQUIRED FOR NAVIGATION
+navigation: main
+masthead_links:
+  - title: "Home"
+    key: main
+
 author:
-  name   : "Shivam Kumar"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Robotics Research Engineer"
+  name    : "Shivam Kumar"
+  avatar  : "/assets/images/bio-photo.jpg"
+  bio     : "Robotics Research Engineer"
   location: "Leicester, UK"
   links:
     - label: "GitHub"
@@ -22,14 +28,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kumarshivam14722@gmail.com"
-
-# 1. This tells the theme which navigation file to use
-navigation: main
-
-# 2. Add this block here to explicitly define the header behavior
-masthead_links:
-  - title: "Home"
-    key: "main"
 
 defaults:
   - scope:
