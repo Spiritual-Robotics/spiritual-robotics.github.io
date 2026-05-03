@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Blog and Documents"
+title: "My timeline"
 permalink: /timeline/
 author_profile: true
 ---
